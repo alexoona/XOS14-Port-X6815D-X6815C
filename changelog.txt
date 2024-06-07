@@ -1,0 +1,8 @@
+XOS 14 Port ROM V1
+Build Date: 05/06/2024
+- Fixed Ultra steady
+- Fixed FaceUnlock
+- Added Missing SetupWizard
+- Replaced camera and libs
+- Added/unhide Freezer
+- RAW Camera included
